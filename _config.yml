@@ -1,0 +1,28 @@
+name: tagt
+favicon: null
+layout_spectrum: 0.37478790571913123
+typography_spectrum: 0.6116666253656149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4017619676887989
+  lightness: 0.6965743526816368
+  saturation: 0.15441366098821163
+  rhythmicContrast: 0.09011123864911497
+purpose: []
